@@ -1,0 +1,11 @@
+[package]
+name = "reg-alloc"
+version = "0.1.0"
+edition = "2021"
+description = "Register allocation with liveness analysis and graph coloring for compiler infrastructure"
+license = "MIT"
+repository = "https://github.com/SuperInstance/reg-alloc"
+keywords = ["register", "allocation", "graph-coloring", "liveness", "compiler"]
+categories = ["algorithms", "development-tools"]
+
+[dependencies]
